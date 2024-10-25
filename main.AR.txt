@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 void main(void) {
-	print("hola mundo!")
+	print("hola mundo!");
+        print("se modifico el código");
 	return 0;
 }
